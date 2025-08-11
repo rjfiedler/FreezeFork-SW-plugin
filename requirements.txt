@@ -1,0 +1,19 @@
+# SolidWorks PDM Plugin Requirements
+
+# SolidWorks COM interface
+pywin32==306
+
+# HTTP requests for API
+requests==2.31.0
+
+# GUI framework (built into Python)
+# tkinter - included with Python
+
+# File operations
+# os, shutil, hashlib - built into Python
+
+# JSON handling
+# json - built into Python
+
+# Threading for non-blocking operations
+# threading - built into Python
